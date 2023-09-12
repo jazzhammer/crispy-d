@@ -1,3 +1,8 @@
 .idea/
 .venv/
+crispy/crispy/__pycache__/
+crispy/crispy_web/__pycache__/
+crispy/crispy_web/migrations/__pycache__/
 crispy_api/crispy_api/__pycache__/
+
+.env
